@@ -1,2 +1,2 @@
 # SHOUGI
-Pygameを使って将棋プログラムを作成しました
+Python/Pygameを使って将棋プログラムを作成しました
